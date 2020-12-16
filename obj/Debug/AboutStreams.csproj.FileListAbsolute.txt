@@ -1,0 +1,7 @@
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToReadWriteFromStreams\AboutStreams\bin\Debug\AboutStreams.exe.config
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToReadWriteFromStreams\AboutStreams\bin\Debug\AboutStreams.exe
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToReadWriteFromStreams\AboutStreams\bin\Debug\AboutStreams.pdb
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToReadWriteFromStreams\AboutStreams\obj\Debug\AboutStreams.csprojAssemblyReference.cache
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToReadWriteFromStreams\AboutStreams\obj\Debug\AboutStreams.csproj.CoreCompileInputs.cache
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToReadWriteFromStreams\AboutStreams\obj\Debug\AboutStreams.exe
+C:\Users\DanielOyagha\Documents\DotNetClassTheBulb\DotNetAssignmentCodeFiles\ToReadWriteFromStreams\AboutStreams\obj\Debug\AboutStreams.pdb
